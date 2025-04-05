@@ -1,0 +1,4 @@
+1. Write structural Verilog code for mod-14 ripple counter and verify the design by simulation.
+2. Write structural Verilog code for 4-bit carry look ahead adder and verify the design by simulation.
+3. Write structural Verilog code for 4-bit carry select adder and verify the design by simulation.
+4. Write structural Verilog code for 4-bit carry save adder and verify the design by simulation.

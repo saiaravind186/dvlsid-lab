@@ -1,0 +1,8 @@
+1. Write a dataflow Verilog code for following digital building blocks and verify the designby simulation: [i] full adder [ii] full subtractor [iii] 32:1 mux
+2. Write a dataflow Verilog code for 4 bit gray- to-binary code converter and verify thedesign by simulation.
+3. Write a dataflow Verilog code for 8421 to 2421 code converter and verify the design by simulation.
+4. Write a dataflow Verilog code for N bit magnitude comparator and verify the design by simulation.
+5. Write a dataflow Verilog code for 4-bit adder and verify the design by simulation.
+6. Write a dataflow Verilog code 4:16 decoder and verify the design by simulation.
+7. Using inertial delay, write a dataflow Verilog code of suitable design and perform the simulation (Analyse the results).
+8. Using the idea of transport delay, write a dataflow Verilog code of suitable design and perform the simulation (Analyse the results).

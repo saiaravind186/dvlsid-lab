@@ -1,0 +1,5 @@
+1.Write the sequential Verilog code for N bit full adder(assume N=6 and use for-loop statement) and verify the design by simulation.
+2.Write the sequential Verilog code for synchronous mod 8 counter and verify the design by simulation.
+3.Write a sequential Verilog code for 8-bit priority encoder and verify the design by simulation.
+4.Write a Verilog code and test bench to model and simulate 4 bit synchronous up/down counter using Cadence tool.
+5.Write sequential Verilog code for 4-bit universal shift register and verify the design by simulation.
