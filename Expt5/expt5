@@ -1,0 +1,2 @@
+1. Write the Verilog code for a 3 input CMOS NAND gate and F =[E(A+BCD)]' with test benches.
+2. Write Verilog code for the following combinational logic function using CMOS logic,F = (ABC+DE)'.

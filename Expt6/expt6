@@ -1,0 +1,4 @@
+1. A Line follower Robot uses 2 Infra-Red (IR) sensors to detect the colour of the surface. Sensor output is High when white surface is detected and Low on a black surface. Try to model the Robot controller and then implement it’s hardware? A Line follower Robot uses 2 Infra-Red (IR) sensors to detect the colour of the surface. Sensor output is High when white surface is detected and Low on a black surface. Try to model the Robot controller and then implement its hardware?
+2. Model and implement an Elevator control system handling 4 floors (0 to 3)
+3. Design the control flow and control signals required to configure this programmable datapath given in the figure to perform Exponentiation function.
+4. Design the state diagram and control path for programmable datapath given in Q No.3 to perform any of (a) Multiplication (b) Division (c) Square root (d) factorial. (Assume missing requirements).
