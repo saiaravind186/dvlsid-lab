@@ -1,0 +1,5 @@
+s1(07Aug2024:12:15:23):  irun and.v and_tb.v -access +rwc -gui 
+s2(07Aug2024:12:21:21):  irun and.v and_tb.v -access +rwc -gui 
+s3(07Aug2024:12:22:58):  irun and.v and_tb.v -access+rwc-* 
+s4(07Aug2024:12:23:15):  irun and.v and_tb.v -access+rwc-gui 
+s5(07Aug2024:12:23:51):  irun and.v and_tb.v -access +rwc -gui 
